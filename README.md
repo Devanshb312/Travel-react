@@ -23,3 +23,13 @@ This project is a Travel Website built using React.js and styled with Tailwind C
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/Devanshb312/Travel_React_Tailwind.git
+2. **Navigate to the Project Directory**:
+   ```bash
+   cd Travel-react
+3. **Install Dependencies**:
+   ```bash
+   npm install
+4. **Start the Development Server**:
+   ```bash
+   npm start
+
