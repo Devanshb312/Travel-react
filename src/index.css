@@ -20,6 +20,13 @@
 
   li {
     @apply p-4
+    hover:border-2 ml-3 border-black
+    
+
+  }
+  .border-b{
+    @apply hover:border-2 ml-3
+   
   }
 
   h1 {
@@ -39,4 +46,5 @@
   .icon {
     @apply text-2xl cursor-pointer
   }
+ 
 }
